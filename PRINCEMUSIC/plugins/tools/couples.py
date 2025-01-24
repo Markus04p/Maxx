@@ -14,8 +14,8 @@ from PRINCEMUSIC.mongo.couples_db import _get_image, get_couple
 POLICE = [
     [
         InlineKeyboardButton(
-            text="𓊈𒆜[𝗖𝗢𝗠𝗘 𝗛𝗘𝗥𝗘]彡𒆜𓊉",
-            url=f"https://t.me/GOSSiiP_PLANET",
+            text="• ᴅᴇᴠ •",
+            url=f"https://t.me/itz_alpha_dude",
         ),
     ],
 ]
